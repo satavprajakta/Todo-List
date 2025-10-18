@@ -10,21 +10,15 @@ You can easily **add, delete, and mark tasks as completed**.
 Open todo_list.html in your browser.
 
 🧠 Tech Used
-
 HTML
-
 CSS
-
 JavaScript
 
 🌟 Features
 
 Add and delete tasks
-
 Mark tasks as done
-
 Clean and simple UI
 
 👩‍💻 Author
-
 Prajakta Satav
